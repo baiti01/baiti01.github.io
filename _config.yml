@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   #location         : "Location"
   employer         :
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=pSLlriYAAAAJ&hl=en"
   email            : "tibaiw@gmail.com"
   uri              :
   bitbucket        :
